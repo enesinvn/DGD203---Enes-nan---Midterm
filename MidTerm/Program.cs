@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        // Başlangıç: Uyanış
         Console.WriteLine("A bright light blinds your eyes. You slowly regain consciousness and realize you are in a hospital room.");
         Console.Write("A doctor and a nurse are by your side. Doctor: Do you remember your name?: ");
         string playerName = Console.ReadLine();
